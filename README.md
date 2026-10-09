@@ -1,7 +1,7 @@
 # Aura Fotografia
 
 <p align="center">
-  <img src="public/assets/aura-favicon.png" alt="Aura Fotografia" width="100" />
+  <img src="Aura-photos\public\assets\aura-favicon.png" alt="Aura Fotografia" width="100" />
 </p>
 
 <h3 align="center">Cada momento merece ser eternizado.</h3>
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://SEU-PROJETO.vercel.app">Acessar projeto</a>
+  <a href="https://aura-photography.vercel.app/">Acessar projeto</a>
 </p>
 
 ---
@@ -25,7 +25,7 @@ Com uma identidade visual sofisticada, o projeto valoriza cada imagem e convida 
 ## Galeria
 
 <p align="center">
-  <img src="public/assets/aura-hero.jpg" alt="Aura Fotografia — apresentação visual" width="100%" />
+  <img src="Aura-photos\public\assets\aura-hero2.png" alt="Aura Fotografia — apresentação visual" width="100%" />
 </p>
 
 ## Experiência
